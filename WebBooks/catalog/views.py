@@ -3,7 +3,8 @@ from django.http import HttpResponse
 from .models import *
 from django.views import generic
 
-# Create your views here. ghljfhgkljdfhlkj
+# Create your views here.
+
 
 def index(request):
     num_books = Book.objects.all().count()
