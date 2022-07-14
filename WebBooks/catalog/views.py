@@ -6,6 +6,9 @@ from django.views import generic
 # Create your views here.njhkgkjgkbjhg kiuyg 
 
 
+#lskjhfgkjsdhg lfjghpoey89749857 lkfjdhglkjfdhk
+
+
 def index(request):
     num_books = Book.objects.all().count()
     num_instances = BookInstance.objects.all().count()
