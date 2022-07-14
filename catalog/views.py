@@ -20,3 +20,4 @@ def index(request):
 
 class BookListView(generic.ListView):
     model = Book
+
