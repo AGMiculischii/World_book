@@ -5,6 +5,8 @@ from django.views import generic
 
 # Create your views here.njhkgkjgkbjhg kiuyg 
 
+#lkjdlfkjf ldkfjld kf
+
 
 #lskjhfgkjsdhg lfjghpoey89749857 lkfjdhglkjfdhk
 
